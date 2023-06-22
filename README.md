@@ -1,6 +1,6 @@
 # ZTF Summer School 2023
 ### Hosted hybrid by the University of Minnesota
-#### July 25-29: 9 am - 12:30 pm (synchronous), group work in the afternoons (asynchronous)
+#### July 24-28: 9 am - 12:30 pm (synchronous), group work in the afternoons (asynchronous)
 
 Course materials for ZTF Summer School 2023
 
