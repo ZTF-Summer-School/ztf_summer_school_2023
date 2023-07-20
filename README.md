@@ -11,25 +11,26 @@ This course will introduce key concepts and techniques used to work with large d
 ### Sample Syllabus
 
 Day 1:
-  * Talks: ZTF Introduction, Brokers
-  * Tutorials: Bayesian Inference, Alert Stream Access
+  * Talks: ZTF Introduction (Michael Coughlin), Searches for fast transients with ZTF (Igor Andreoni), Searches for Neutrino counterparts (Robert Stein)
+  * Tutorials: Alert Stream Access, Fast transient case study
 
 Day 2:
-  * Talks: Searches for fast transients with ZTF, Supernova light curve
-model fitting
-  * Tutorials: Fast transient case study, examples of using sncosmo / nmma
+  * Talks: NMMA (Peter Pang), Multi-messenger Searches (Tomas Ahumada)
+  * Tutorials: Bayesian inference, examples of using sncosmo / nmma
+  * Outing: Bell Museum / Planetarium
 
 Day 3:
-  * Talks: BTS, SEDM / SEDMv2
-  * Tutorials: Automated Spectral Classification
+  * Talks: BTS (Daniel Perley), BTSBot (Michael Coughlin)
+  * Tutorials: Training a BTS-like model
+  * Outing: TURBO visit (Daniel Warshofsky)
 
 Day 4:
-  * Talks: Introduction to Machine Learning, Introduction to Marshals
-  * Tutorials: Training a BTS-like model, Kilonova / GRB sample case study
+  * Talks: Introduction to Machine Learning, SCOPE (Brian Healy)
+  * Tutorials: SCOPE case study
 
 Day 5:
-  * Talks: Fun talks
-  * Tutorials: Anomaly Detection(?)
+  * Talks: SEDM / SEDMv2 (Yashvi Sharma) 
+  * Tutorials: Anomaly Detection
 
 ### How to use these materials
 
@@ -51,12 +52,12 @@ Day 5:
 
 ### Related Material
 
-* UIUC Fundamentals of Data science: https://github.com/gnarayan/ast596_2020_Spring
+* UIUC Fundamentals of Data science: https://github.com/gnarayan/ast596_2023_Spring
 * Caltech Astroinformatics: https://sites.astro.caltech.edu/ay119/
 * GROWTH summer school: http://growth.caltech.edu/growth-school-2019.html
 * AURA winter school: http://www.aura-o.aura-astronomy.org/winter_school/ - go to Past Years.
 * YouTube Neural Networks: https://www.youtube.com/watch?v=aircAruvnKk
-* UMN Big Data Astronomy: https://github.com/mcoughlin/ast8581_2022_Spring
+* UMN Big Data Astronomy: https://github.com/mcoughlin/ast8581_2023_Spring
 
 ### Github
 If you are new to github, we recommend watching:
