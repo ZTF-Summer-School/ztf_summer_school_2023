@@ -73,7 +73,7 @@ plus the ubuntu anaconda.
 
 After installing anaconda, you should (in a terminal):
  
-* clone the repository: git clone git@github.com:mcoughlin/ztf_summer_school_2022.git
+* clone the repository: git clone https://github.com/mcoughlin/ztf_summer_school_2023.git
 * change directories to the repository: cd ztf_summer_school_2022
 * use conda to create an environment
   * on mac osx: conda env create -f environment-osx.yml
