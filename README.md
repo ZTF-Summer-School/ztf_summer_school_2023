@@ -20,12 +20,12 @@ Day 2:
   * Outing: Bell Museum / Planetarium
 
 Day 3:
-  * Talks: BTS (Daniel Perley), BTSBot (Michael Coughlin)
+  * Talks: BTS (Daniel Perley), BTSBot (Theophile Jegou Du Laz)
   * Tutorials: Training a BTS-like model
   * Outing: TURBO visit (Daniel Warshofsky)
 
 Day 4:
-  * Talks: Introduction to Machine Learning, SCOPE (Brian Healy)
+  * Talks: Reinforcement Learning (Niharika Sravan), SCOPE (Brian Healy)
   * Tutorials: SCOPE case study
 
 Day 5:
@@ -40,13 +40,9 @@ Day 5:
 
 * Lectures are in directories named XY/ where XY/ is the number of the day
 
-* Homework assignments are similarly in the homework/ directory
-
-* Solutions to homework assignments will be posted the day after they are due.
-
 * Various help cheat sheets are included in help/. 
 
-* You should also review in-class notebooks and homework solutions to make sure you understand what is happening
+* You should also review in-class notebooks to make sure you understand what is happening
 
 * The lecture notebooks have in-class exercises for you to work on
 
